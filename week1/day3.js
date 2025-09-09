@@ -129,7 +129,10 @@ run();
 // SOLUTION:
 // getData().then(console.log); // Correct way to log the resolved value
 
+
 /*---------------------------------------------------------------------------------------*/
+
+
 /*
 Interview Q&A (with Answers)
 
